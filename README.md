@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-mohandas/)](https://www.linkedin.com/in/anubhav-mohandas/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Anubhav-green)](https://anubhavmohandas.github.io/Anubhav-Profile/)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Anubhav-yellow)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Anubhav-cyan)](https://anubhavmohandas.github.io/Anubhav-Profile/)
 
 I'm
 Full Stack Solution Architect
