@@ -1,6 +1,6 @@
 ### Hey Developers,👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-mohandas/)](https://www.linkedin.com/in/anubhav-mohandas/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-mohandas/)](https://www.linkedin.com/in/anubhavmohandas/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-AnubhavMohandas-red)](https://www.youtube.com/c/AnubhavMohandas)
 [![Website Badge](https://img.shields.io/badge/WebSite-Anubhav-green)](https://anubhavmohandas.github.io/Anubhav-Profile/)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Anubhav-yellow)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
