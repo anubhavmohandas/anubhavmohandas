@@ -5,9 +5,13 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Anubhav-green)](https://anubhavmohandas.github.io/Anubhav-Profile/)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Anubhav-yellow)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive) database(MongoDB).
+Cybersecurity Enthusiast | Cyber Forensics Researcher | Tool Developer
+
+I am a passionate and fast learner in the field of cybersecurity, specializing in cyber forensics and investigative work. With a focus on utilizing a variety of tools for recon, research, and hands-on practice, I am always exploring new ways to improve my skills and knowledge. I’ve developed tools like recon_scanner to support my reconnaissance work, and I continue to dive deeper into the world of cybersecurity, especially within the forensics segment.
+
+My favorite operating systems include Kali Linux, Caine OS, and BlackArch Linux—all essential in my work. I am continuously learning and adapting to new challenges in this ever-evolving field. Outside of tech, I enjoy traveling and exploring new places whenever I get the chance.
+
+Feel free to connect if you share similar interests or want to collaborate on cybersecurity projects!
 
 
 ![Visitor Count](https://profile-counter.glitch.me/anubhavmohandas/count.svg)
