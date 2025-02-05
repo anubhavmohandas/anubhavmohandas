@@ -1,4 +1,4 @@
-### Hey Developers,👋
+### Hey Nerds,👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-mohandas/)](https://www.linkedin.com/in/anubhavmohandas/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-AnubhavMohandas-red)](https://www.youtube.com/c/AnubhavMohandas)
