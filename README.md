@@ -27,7 +27,7 @@ I'm a passionate cybersecurity professional specializing in **cyber forensics** 
 
 ### **Languages & Technologies**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!--   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,7 +75,7 @@ I'm a passionate cybersecurity professional specializing in **cyber forensics** 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AnubhavMohandas)
+<!--   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/AnubhavMohandas) -->
 [![Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://anubhavmohandas.github.io/Anubhav-Profile/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
 
@@ -102,6 +102,6 @@ I'm a passionate cybersecurity professional specializing in **cyber forensics** 
 ---
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+<!--   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" /> -->
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 </div>
