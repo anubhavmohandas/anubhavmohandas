@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+ExtraBold&pause=1000&color=035982&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Cyber+Forensics+Researcher;Security+Tool+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
-
 ---
 
 ## 🚀 About Me
