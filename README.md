@@ -2,7 +2,7 @@
 
 # 🛡️ ANUBHAV MOHANDAS 🛡️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher+%F0%9F%94%8D;Digital+Forensics+Specialist+%F0%9F%95%B5%EF%B8%8F;Threat+Hunter+%F0%9F%8E%AF;OSINT+Investigator+%F0%9F%94%8E;Security+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher+%F0%9F%94%8D;Cyber+Forensics+Researcher+%F0%9F%95%B5%EF%B8%8F;OSINT+Investigator+%F0%9F%94%8E;Security+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════╗
