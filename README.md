@@ -1,96 +1,154 @@
-# Hi there, I'm Anubhav! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+ExtraBold&pause=1000&color=035982&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Digital+Forensics+Specialist;Security+Tool+Developer;Cyber+Crime+Investigator;OSINT+%26+Threat+Hunter" alt="Typing SVG" />
+
+# 🛡️ ANUBHAV MOHANDAS 🛡️
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher+%F0%9F%94%8D;Digital+Forensics+Specialist+%F0%9F%95%B5%EF%B8%8F;Threat+Hunter+%F0%9F%8E%AF;OSINT+Investigator+%F0%9F%94%8E;Security+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   [SYSTEM INITIALIZED] → Digital Forensics & Cyber Crime Investigation   ║
+║   [STATUS: ACTIVE] → Building Security Tools & Hunting Threats          ║
+║   [MODE: RESEARCH] → Advanced Forensic Techniques & OSINT               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+[![Profile Views](https://komarev.com/ghpvc/?username=anubhavmohandas&color=red&style=flat-square&label=SECURITY+CLEARANCE)](https://github.com/anubhavmohandas)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 📡 ABOUT.SYS
 
-Cybersecurity researcher specializing in **digital forensics** and **cyber crime investigation**. I build security tools and solve complex investigative cases using advanced forensic techniques.
-
-- 🔍 Building SIEM systems, honeypots, and forensic analysis tools
-- 🛠️ Creating security testing and threat detection utilities
-- 🎯 Expertise in digital forensics, malware analysis, penetration testing, OSINT
-- 📚 Maintaining comprehensive Digital Forensics & Cybersecurity Wiki
-- 🌱 Continuous research in emerging cyber threats and forensic methodologies
+```python
+class CybersecurityResearcher:
+    def __init__(self):
+        self.name = "Anubhav Mohandas"
+        self.role = "Digital Forensics Specialist"
+        self.focus = ["Threat Hunting", "Malware Analysis", "OSINT", "SIEM Development"]
+        self.current_mission = "Building next-gen security tools"
+        
+    def get_expertise(self):
+        return {
+            "forensics": ["Memory Analysis", "Disk Forensics", "Network Forensics"],
+            "offensive": ["Penetration Testing", "Exploit Development", "Payload Generation"],
+            "defensive": ["SIEM", "Threat Detection", "Log Analysis", "Honeypots"],
+            "intelligence": ["OSINT", "Reconnaissance", "Threat Intelligence"]
+        }
+```
 
 ---
 
-## 🔥 Security Tools
+## 🎯 MISSION_OBJECTIVES
 
-- 🕸️ **Web Honeypot System** - Capture and analyze attacker behavior
-- 💣 **Enhanced Payload Generator** - Multi-module security testing (SQL injection, XSS, RCE, bruteforce)
-- 🛡️ **SIEM Kernel Exploit Detector** - Linux kernel exploit detection for specific CVEs
-- 🔍 **WhoisUser OSINT Framework** - Reconnaissance and information gathering
-- 📊 **Log Analyzer** - Advanced threat detection and log analysis
+<table>
+<tr>
+<td width="50%">
+
+### 🔴 ACTIVE OPERATIONS
+- 🛡️ Developing SIEM detection systems
+- 🕸️ Building honeypot infrastructure  
+- 💣 Creating security testing frameworks
+- 🔍 OSINT tool development
+- 📊 Threat intelligence automation
+
+</td>
+<td width="50%">
+
+### 🟢 RESEARCH AREAS
+- Digital forensics methodologies
+- Kernel exploit detection
+- Cyber crime investigation
+- Advanced malware analysis
+- Threat actor attribution
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛡️ Tech Stack
+## ⚔️ ARSENAL.DB
 
-### **Operating Systems**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<div align="center">
+
+### 🔧 SECURITY TOOLS DEVELOPED
+
+| Tool | Category | Purpose |
+|:-----|:---------|:--------|
+| 🕸️ **Web Honeypot** | Defense | Attacker behavior analysis & data capture |
+| 💣 **Payload Generator** | Offense | Multi-module security testing (SQLi, XSS, RCE) |
+| 🛡️ **SIEM Exploit Detector** | Defense | Linux kernel CVE detection system |
+| 🔍 **WhoisUser** | Intelligence | OSINT reconnaissance framework |
+| 📊 **Log Analyzer** | Defense | Advanced threat detection engine |
+
+</div>
+
+---
+
+## 💻 TECH_STACK.CFG
+
+<div align="center">
+
+### 🐧 Operating Systems
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![CAINE OS](https://img.shields.io/badge/CAINE_OS-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+![CAINE](https://img.shields.io/badge/CAINE-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### **Security Tools**
+### 🛠️ Security Arsenal
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=forensics&logoColor=white)
 
-### **Development**
+### 💾 Development Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anubhavmohandas&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 ANALYTICS.LOG
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavmohandas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C" alt="GitHub Trophies" />
+
+### 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavmohandas&theme=redical&bg_color=0d1117&color=00ff41&line=00ff41&point=ff0000&area_color=00ff41&area=true&hide_border=true&custom_title=THREAT%20ACTIVITY%20TIMELINE" alt="Activity Graph" />
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavmohandas&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 💡 Dev Quote
+## 💡 WISDOM.TXT
 
 <div align="center">
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🔗 CONNECT.SH
 
 <div align="center">
-  
+
+```bash
+$ curl -X CONNECT https://anubhavmohandas.net/social
+```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://anubhavmohandas.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=About.me&logoColor=white)](https://anubhavmohandas.netlify.app/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
 
 </div>
@@ -98,21 +156,26 @@ Cybersecurity researcher specializing in **digital forensics** and **cyber crime
 ---
 
 <div align="center">
-  
-### 🔐 "In cybersecurity, offense informs defense - know your adversary" 🔐
 
-![Profile Views](https://komarev.com/ghpvc/?username=anubhavmohandas&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  "In cybersecurity, offense informs defense - know your adversary"   ║
+║                                                                       ║
+║  💼 Open for collaboration on cybersecurity projects                 ║
+║  📧 With greater power comes greater responsibility                  ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
-**💼 Open for collaboration on cybersecurity projects**  
-**📧 With greater power comes greater responsibility**
+![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-MONITORING-green?style=for-the-badge)
+![Security](https://img.shields.io/badge/SECURITY-FIRST-red?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-FOREVER-blue?style=for-the-badge)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Built with Security](https://img.shields.io/badge/Built%20with-Security%20First-red?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Forever-brightgreen?style=for-the-badge)
-  
+<sub>🔐 Built with security-first principles | 🛡️ Always hunting threats | 🕵️ Forever curious</sub>
 </div>
