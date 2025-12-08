@@ -54,12 +54,18 @@ Cybersecurity researcher specializing in **digital forensics** and **cyber crime
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anubhavmohandas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavmohandas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anubhavmohandas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavmohandas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=anubhavmohandas&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  
+*Note: If stats don't load, GitHub API rate limits may be active. Refresh in a few minutes.*
+
 </div>
 
 ---
