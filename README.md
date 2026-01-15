@@ -144,7 +144,7 @@ class CybersecurityResearcher:
 <div align="center">
 
 ```bash
-$ curl -X CONNECT https://anubhavmohandas.net/social
+$ curl -X CONNECT https://anubhavmohandas.netlify.app
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
