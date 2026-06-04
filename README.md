@@ -198,9 +198,9 @@ Built so Claude can do everything without switching contexts — research, write
 
 ## `> tail -f analytics.log`
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=anubhavmohandas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=anubhavmohandas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" /> -->
 
 <br/><br/>
 
