@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=900&lines=ANUBHAV+MOHANDAS;Security+%2B+AI+Systems+%F0%9F%94%90;SAGE+%E2%80%94+Autonomous+CVE+Patching;NYX+%E2%80%94+Local+AI%2C+No+Cloud;CyberTrace+%E2%80%94+30%2B+OSINT+Sources;MIDAS+%E2%80%94+Overnight+SaaS+Builder;Systems+that+act+without+supervision." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=ANUBHAV+MOHANDAS;Security+%2B+AI+Systems+%F0%9F%94%90;SAGE+%E2%80%94+Autonomous+CVE+Patching;NYX+%E2%80%94+Local+AI%2C+No+Cloud;CyberTrace+%E2%80%94+30%2B+OSINT+Sources;MIDAS+%E2%80%94+Overnight+SaaS+Builder;Systems+that+act+without+supervision." alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE-anubhavmohandas.netlify.app-00d4ff?style=for-the-badge)](https://anubhavmohandas.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
-[![Profile Views](https://komarev.com/ghpvc/?username=anubhavmohandas&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/anubhavmohandas)
+[![Portfolio](https://img.shields.io/badge/🌐-anubhavmohandas.netlify.app-00d4ff?style=for-the-badge&logoColor=white)](https://anubhavmohandas.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F97316?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
+[![Profile Views](https://komarev.com/ghpvc/?username=anubhavmohandas&color=7c3aed&style=for-the-badge&label=VIEWS)](https://github.com/anubhavmohandas)
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  I build autonomous systems.                                             ║
-║  Security agents, OSINT pipelines, and local AI that investigate,        ║
-║  decide, and act — without supervision.                                  ║
-╚══════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────┐
+│  I build autonomous systems.                                            │
+│  Security agents, OSINT pipelines, and local AI that investigate,       │
+│  decide, and act — without supervision.                                 │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -44,10 +44,10 @@ class AnubhavMohandas:
 
 ## `> ls active_systems/`
 
-> Click to expand each system ↓
+> Click any system to expand ↓
 
 <details>
-<summary><b>◈ SAGE &nbsp;—&nbsp; Security Analysis &amp; Graph Engine</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=flat-square" /></summary>
+<summary><b>◈ SAGE — Security Analysis &amp; Graph Engine</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
 
 <br/>
 
@@ -55,9 +55,9 @@ CVE drops. **SAGE wakes up.**
 
 Maps your entire transitive dependency graph using **tree-sitter + NetworkX**, finds every function in the blast radius, calls Claude for a targeted patch, runs CVE-specific exploit tests to verify it, then **opens a GitHub PR automatically**.
 
-You review and merge. That's it. That's all you do.
+You review and merge. That's it.
 
-**Stack:** `tree-sitter` · `NetworkX` · `Claude API` · `GitHub API`
+`tree-sitter` · `NetworkX` · `Claude API` · `GitHub API`
 
 <br/>
 </details>
@@ -65,17 +65,17 @@ You review and merge. That's it. That's all you do.
 ---
 
 <details>
-<summary><b>◈ NYX &nbsp;—&nbsp; Personal AI Assistant</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=flat-square" /></summary>
+<summary><b>◈ NYX — Personal AI Assistant</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
 
 <br/>
 
 Fully local. No API keys phoning home. **Voice-activated**, multi-model fallback.
 
-Speaks **Hindi / English / Hinglish / Malayalam** — because your AI assistant should understand how you actually think.
+Speaks **Hindi / English / Hinglish / Malayalam** — because your AI should understand how you actually think.
 
-The anti-cloud AI assistant. Because why trust your conversations to someone else's server?
+The anti-cloud AI assistant.
 
-**Stack:** `Local LLMs` · `Whisper` · `Python` · `Multi-model fallback`
+`Local LLMs` · `Whisper` · `Python` · `Multi-model fallback`
 
 <br/>
 </details>
@@ -83,17 +83,17 @@ The anti-cloud AI assistant. Because why trust your conversations to someone els
 ---
 
 <details>
-<summary><b>◈ MIDAS &nbsp;—&nbsp; Market Intelligence, Discovery &amp; Autonomous SaaS-builder</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=flat-square" /></summary>
+<summary><b>◈ MIDAS — Market Intelligence, Discovery &amp; Autonomous SaaS-builder</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
 
 <br/>
 
 Goes to sleep. Wakes you up with a **live product**.
 
-Mines **Reddit / Twitter / ProductHunt / App Store** for pain signals → validates willingness-to-pay through cold outreach → scaffolds a **FastAPI + Supabase + Stripe** stack → ships to Vercel → posts to ProductHunt.
+Mines **Reddit / Twitter / ProductHunt / App Store** for pain signals → validates willingness-to-pay → scaffolds **FastAPI + Supabase + Stripe** → ships to Vercel → posts to ProductHunt.
 
 Overnight. Autonomous. No human in the loop.
 
-**Stack:** `FastAPI` · `Supabase` · `Stripe` · `Vercel` · `Python`
+`FastAPI` · `Supabase` · `Stripe` · `Vercel` · `Python`
 
 <br/>
 </details>
@@ -101,7 +101,7 @@ Overnight. Autonomous. No human in the loop.
 ---
 
 <details>
-<summary><b>◈ CyberTrace &nbsp;—&nbsp; OSINT Intelligence Platform</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=flat-square" /></summary>
+<summary><b>◈ CyberTrace — OSINT Intelligence Platform</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
 
 <br/>
 
@@ -112,12 +112,12 @@ Overnight. Autonomous. No human in the loop.
 | `Email` | Breach history, associated accounts |
 | `BTC Address` | Wallet graph, transaction trail |
 | `Phone` | Carrier, owner, linked profiles |
-| `IP Address` | Geolocation, Shodan exposure |
+| `IP` | Geolocation, Shodan exposure |
 | `GSTIN` | Full business intelligence |
 
 **30+ sources** across surface, deep, and dark web — queried in parallel, results merged and ranked.
 
-**Stack:** `Python` · `Shodan API` · `30+ OSINT sources` · `Parallel querying`
+`Python` · `Shodan API` · `30+ OSINT sources` · `Parallel querying`
 
 <br/>
 </details>
@@ -125,7 +125,7 @@ Overnight. Autonomous. No human in the loop.
 ---
 
 <details>
-<summary><b>◈ HERMES &nbsp;—&nbsp; Hybrid Engine for Research, Memory, Execution &amp; Synthesis</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=flat-square" /></summary>
+<summary><b>◈ HERMES — Hybrid Engine for Research, Memory, Execution &amp; Synthesis</b> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-7c3aed?style=flat-square" /></summary>
 
 <br/>
 
@@ -133,9 +133,7 @@ Overnight. Autonomous. No human in the loop.
 
 Built so Claude can do everything without switching contexts — research, write, remember, execute, synthesize.
 
-The complete context engine for autonomous AI workflows.
-
-**Stack:** `Python` · `Claude API` · `MCP` · `Custom memory layer`
+`Python` · `Claude API` · `MCP` · `Custom memory layer`
 
 <br/>
 </details>
@@ -149,7 +147,7 @@ The complete context engine for autonomous AI workflows.
 | 🔐 **GHOST** | AES-256-GCM autofill extension. Reverse-engineered IRCTC's Angular monolith for Tatkal booking. No public API used. |
 | 📄 **Nyxine** | Resume builder that never touches a server. JD keyword scoring, ATS gap analysis, AI coaching — all in-browser. |
 | 🔍 **WhoisUser** | Username recon across 100+ platforms. One query. |
-| 💣 **Secure Gen** | Payload framework — 15+ types, WAF bypass, DB-specific vectors. For ethical hacking. |
+| 💣 **Secure Gen** | Payload framework — 15+ types, WAF bypass, DB-specific vectors. Ethical hacking only. |
 | 🛡️ **SIEM Exploit Detector** | Real-time APT and kernel-level exploit detection. |
 | 🕵️ **Digital Forensics Toolkit** | All-in-one investigation suite for cyber crime cases. |
 | 📊 **Enhanced CVSS Calculator** | Because the standard one isn't enough for real triage. |
@@ -164,34 +162,34 @@ The complete context engine for autonomous AI workflows.
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-00D4FF?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7c3aed?style=for-the-badge&logo=php&logoColor=white)
 
 **AI & Autonomous Systems**
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 **Security Arsenal**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-00D4FF?style=for-the-badge&logo=kali-linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F97316?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-7c3aed?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
 **Forensics & OS**
 
-![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=forensics&logoColor=white)
-![CAINE](https://img.shields.io/badge/CAINE-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-0d1117?style=for-the-badge&logo=forensics&logoColor=00D4FF)
+![CAINE](https://img.shields.io/badge/CAINE-F97316?style=for-the-badge&logo=linux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-7c3aed?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
@@ -202,24 +200,15 @@ The complete context engine for autonomous AI workflows.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anubhavmohandas&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00d4ff&dates=888888" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anubhavmohandas&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=anubhavmohandas&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=7c3aed&text_color=ffffff&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavmohandas&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavmohandas&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavmohandas&theme=redical&bg_color=0d1117&color=00ff41&line=00ff88&point=ff6b35&area_color=00ff41&area=true&hide_border=true&custom_title=CONTRIBUTION+TIMELINE" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavmohandas&bg_color=0d1117&color=00D4FF&line=7c3aed&point=F97316&area_color=7c3aed&area=true&hide_border=true&custom_title=CONTRIBUTION+TIMELINE" alt="Activity Graph" />
 
 </div>
-
-> 💡 **To enable the snake animation:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo and replace the activity graph above with:
-> ```
-> <img src="https://raw.githubusercontent.com/anubhavmohandas/anubhavmohandas/output/github-contribution-grid-snake-dark.svg" />
-> ```
 
 ---
 
@@ -228,34 +217,31 @@ The complete context engine for autonomous AI workflows.
 <div align="center">
 
 ```bash
-$ # One identifier in. Everything out.
 $ curl -X GET https://anubhavmohandas.netlify.app
-→ Systems loaded. Security-first. Zero toolchain overhead.
+→ Security-first. Autonomous. Zero toolchain overhead.
 ```
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF0000?style=for-the-badge)](https://anubhavmohandas.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=netlify&logoColor=black)](https://anubhavmohandas.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavmohandas/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F97316?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14821045/anubhav-mohandas)
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Offense informs defense. Know your adversary."               ║
-║                                                                  ║
-║   Open for collaboration on security research & autonomous AI   ║
-║   With greater power comes greater responsibility               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────────────┐
+│  "Offense informs defense. Know your adversary."                     │
+│                                                                      │
+│  Open for collaboration on security research & autonomous AI         │
+│  With greater power comes greater responsibility                     │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-![](https://img.shields.io/badge/security-first-red?style=for-the-badge)
-![](https://img.shields.io/badge/autonomous_systems-shipping-00ff88?style=for-the-badge)
-![](https://img.shields.io/badge/open_source-forever-0077B5?style=for-the-badge)
+![](https://img.shields.io/badge/security-first-00D4FF?style=for-the-badge)
+![](https://img.shields.io/badge/autonomous-systems-7c3aed?style=for-the-badge)
+![](https://img.shields.io/badge/open_source-forever-F97316?style=for-the-badge)
 
-<sub>🔐 security · forensics · autonomous systems · 2019 → now</sub>
+<sub>security · forensics · autonomous systems · 2019 → now</sub>
 
 </div>
