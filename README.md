@@ -200,9 +200,7 @@ Built so Claude can do everything without switching contexts — research, write
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anubhavmohandas&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=7c3aed&text_color=ffffff&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavmohandas&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=anubhavmohandas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
 
 <br/><br/>
 
